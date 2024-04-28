@@ -1,0 +1,14 @@
+# Ignore directories and files in 'back/' directory
+back/Crow
+back/cmake-build-debug
+back/CMakeFiles
+back/App
+back/CMakeCache.txt
+back/Makefile
+back/.gitignore.swp
+back/.idea
+back/cmake_install.cmake
+
+# Ignore 'node_modules' directory in 'client/' directory
+client/node_modules
+client/package-lock.json
